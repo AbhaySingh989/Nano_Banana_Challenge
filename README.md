@@ -1,4 +1,4 @@
-# 🤖 AI Home Design Copilot
+# 🤖 Blueprint Nova
 
 This web application acts as your creative partner, using AI to take your home design ideas from a simple concept to a full-fledged visual gallery. Generate blueprints, create architectural renders, and design interiors, all through a simple, step-by-step process.
 
