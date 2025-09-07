@@ -1,0 +1,7 @@
+{
+  "name": "Blueprint Nova",
+  "description": "An AI-powered assistant to help you visualize floor plans and interior designs for new builds or remodels. Generate, iterate, and save your dream home concepts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
